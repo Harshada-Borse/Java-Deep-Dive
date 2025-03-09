@@ -8,6 +8,6 @@ Many Java developers focus on **common topics**, often missing **advanced but fr
 ## 📚 How to Use?  
 1. **Clone the repo**:  
    ```bash
-   git clone https://github.com/yourusername/Java-Deep-Dive.git
+   https://github.com/Harshada-Borse/Java-Deep-Dive
 
 **Thank You** 😊
