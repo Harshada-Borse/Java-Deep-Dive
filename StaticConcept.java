@@ -33,6 +33,10 @@ public class StaticConcept {
         // Student.college = "MIT";
         // s1.display();
 
+        // static variable -> get shared among all the instances of the class
+        // static variable is used to refer the common property of all objects
+        // static variable gets memory only once in class area at the time of class
+
         // static method
         // static method can be called without creating an object
         // static method can access static data member and can change the value of it
